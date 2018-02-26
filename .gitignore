@@ -51,6 +51,7 @@ Thumbs.db
 */build
 var
 logs
+*/target/*
 
 # IntelliJ specific files/directories
 out
