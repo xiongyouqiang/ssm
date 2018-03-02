@@ -5,6 +5,7 @@ import java.util.List;
 import com.xyq.ssm.pojo.UserInfo;
 
 public interface UserInfoMapper {
+	
     int deleteByPrimaryKey(Integer userId);
 
     int insert(UserInfo record);
